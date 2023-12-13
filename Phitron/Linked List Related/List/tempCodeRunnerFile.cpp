@@ -1,0 +1,1 @@
+mylist.insert(next(mylist.begin(),5),100);

@@ -1,0 +1,1 @@
+{"name":"Local: ThreeSumProblem","url":"c:\\Users\\UseR\\Desktop\\Phitron\\C++\\ThreeSumProblem.cpp","tests":[{"id":1692550410338,"input":"5\n10\n2 3 4 5 6","output":"True"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\UseR\\Desktop\\Phitron\\C++\\ThreeSumProblem.cpp","group":"local","local":true}

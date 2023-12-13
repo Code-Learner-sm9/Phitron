@@ -1,0 +1,1 @@
+{"name":"Local: TwoPointerSum","url":"c:\\Users\\UseR\\Desktop\\Phitron\\C++\\TwoPointerSum.cpp","tests":[{"id":1692721095059,"input":"5\n12\n3 8 12 6 4","output":"True"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\UseR\\Desktop\\Phitron\\C++\\TwoPointerSum.cpp","group":"local","local":true}
