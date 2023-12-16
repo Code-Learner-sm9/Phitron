@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/UseR/Desktop/Phitron/Phitron/List",
-      "program": "c:/Users/UseR/Desktop/Phitron/Phitron/List/build/Debug/outDebug",
+      "cwd": "c:/Users/UseR/Desktop/Phitron/Phitron/Linked List Related/List",
+      "program": "c:/Users/UseR/Desktop/Phitron/Phitron/Linked List Related/List/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
